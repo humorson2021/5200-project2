@@ -1,0 +1,596 @@
+[
+    {
+        "team_id": 1,
+        "team_name": "tiger",
+        "score": 39.64,
+        "players": [
+            {
+                "player_1": {
+                    "player_id": 1,
+                    "team_id": 1,
+                    "name": "Jim",
+                    "sex": "F",
+                    "contact": 4124198888
+                }
+            },
+            {
+                "player_2": {
+                    "player_id": 2,
+                    "team_id": 1,
+                    "name": "Jerry",
+                    "sex": "M",
+                    "contact": 4124198881
+                }
+            },
+            {
+                "player_3": {
+                    "player_id": 3,
+                    "team_id": 1,
+                    "name": "Max",
+                    "sex": "M",
+                    "contact": 4124198822
+                }
+            },
+            {
+                "player_4": {
+                    "player_id": 4,
+                    "team_id": 1,
+                    "name": "Carol",
+                    "sex": "M",
+                    "contact": 4124198811
+                }
+            }
+        ],
+        "rounds": [
+            {
+                "round_1": {
+                    "opposite_team_id": 2,
+                    "round_id": 1,
+                    "VP": 10.31,
+                    "boards": [
+                        {
+                            "board_1": {
+                                "board_id": 1,
+                                "result": "3NT+1"
+                            }
+                        },
+                        {
+                            "board_2": {
+                                "board_id": 2,
+                                "result": "1S+3"
+                            }
+                        },
+                        {
+                            "board_3": {
+                                "board_id": 3,
+                                "result": "2S+1"
+                            }
+                        },
+                        {
+                            "board_4": {
+                                "board_id": 4,
+                                "result": "6D-1"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "round_2": {
+                    "opposite_team_id": 3,
+                    "round_id": 2,
+                    "VP": 9.69,
+                    "boards": [
+                        {
+                            "board_1": {
+                                "board_id": 5,
+                                "result": "6D+1"
+                            }
+                        },
+                        {
+                            "board_2": {
+                                "board_id": 6,
+                                "result": "3D+1"
+                            }
+                        },
+                        {
+                            "board_3": {
+                                "board_id": 7,
+                                "result": "3H+3"
+                            }
+                        },
+                        {
+                            "board_4": {
+                                "board_id": 8,
+                                "result": "3H+3"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "round_3": {
+                    "opposite_team_id": 4,
+                    "round_id": 3,
+                    "VP": 19.64,
+                    "boards": [
+                        {
+                            "board_1": {
+                                "board_id": 9,
+                                "result": "4H="
+                            }
+                        },
+                        {
+                            "board_2": {
+                                "board_id": 10,
+                                "result": "4H-1"
+                            }
+                        },
+                        {
+                            "board_3": {
+                                "board_id": 11,
+                                "result": "2NT-1"
+                            }
+                        },
+                        {
+                            "board_4": {
+                                "board_id": 12,
+                                "result": "2NT+1"
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "team_id": 2,
+        "team_name": "Lord of ring",
+        "score": 30.36,
+        "players": [
+            {
+                "player_1": {
+                    "player_id": 5,
+                    "team_id": 2,
+                    "name": "Carolin",
+                    "sex": "F",
+                    "contact": 4124198833
+                }
+            },
+            {
+                "player_2": {
+                    "player_id": 6,
+                    "team_id": 2,
+                    "name": "Yousef",
+                    "sex": "M",
+                    "contact": 4124198844
+                }
+            },
+            {
+                "player_3": {
+                    "player_id": 7,
+                    "team_id": 2,
+                    "name": "Irvine",
+                    "sex": "M",
+                    "contact": 4124198855
+                }
+            },
+            {
+                "player_4": {
+                    "player_id": 8,
+                    "team_id": 2,
+                    "name": "Ire",
+                    "sex": "F",
+                    "contact": 4124198866
+                }
+            }
+        ],
+        "rounds": [
+            {
+                "round_1": {
+                    "opposite_team_id": 1,
+                    "round_id": 1,
+                    "VP": 9.69,
+                    "boards": [
+                        {
+                            "board_1": {
+                                "board_id": 1,
+                                "result": "3NT="
+                            }
+                        },
+                        {
+                            "board_2": {
+                                "board_id": 2,
+                                "result": "1S+2"
+                            }
+                        },
+                        {
+                            "board_3": {
+                                "board_id": 3,
+                                "result": "3S="
+                            }
+                        },
+                        {
+                            "board_4": {
+                                "board_id": 4,
+                                "result": "6D="
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "round_2": {
+                    "opposite_team_id": 4,
+                    "round_id": 2,
+                    "VP": 10.31,
+                    "boards": [
+                        {
+                            "board_1": {
+                                "board_id": 5,
+                                "result": "6D+1"
+                            }
+                        },
+                        {
+                            "board_2": {
+                                "board_id": 6,
+                                "result": "3D+2"
+                            }
+                        },
+                        {
+                            "board_3": {
+                                "board_id": 7,
+                                "result": "3H+3"
+                            }
+                        },
+                        {
+                            "board_4": {
+                                "board_id": 8,
+                                "result": "3H+3"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "round_3": {
+                    "opposite_team_id": 3,
+                    "round_id": 3,
+                    "VP": 0.36,
+                    "boards": [
+                        {
+                            "board_1": {
+                                "board_id": 9,
+                                "result": "4H-1"
+                            }
+                        },
+                        {
+                            "board_2": {
+                                "board_id": 10,
+                                "result": "4HX-2"
+                            }
+                        },
+                        {
+                            "board_3": {
+                                "board_id": 11,
+                                "result": "2NT-1"
+                            }
+                        },
+                        {
+                            "board_4": {
+                                "board_id": 12,
+                                "result": "2NTX-3"
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "team_id": 3,
+        "team_name": "Experts",
+        "score": 27.47,
+        "players": [
+            {
+                "player_1": {
+                    "player_id": 9,
+                    "team_id": 3,
+                    "name": "AA",
+                    "sex": "F",
+                    "contact": 4124198111
+                }
+            },
+            {
+                "player_2": {
+                    "player_id": 10,
+                    "team_id": 3,
+                    "name": "Ben",
+                    "sex": "M",
+                    "contact": 4124198222
+                }
+            },
+            {
+                "player_3": {
+                    "player_id": 11,
+                    "team_id": 3,
+                    "name": "Mars",
+                    "sex": "M",
+                    "contact": 4124198333
+                }
+            },
+            {
+                "player_4": {
+                    "player_id": 12,
+                    "team_id": 3,
+                    "name": "Jack",
+                    "sex": "M",
+                    "contact": 4124198444
+                }
+            },
+            {
+                "player_5": {
+                    "player_id": 13,
+                    "team_id": 3,
+                    "name": "DD",
+                    "sex": "M",
+                    "contact": 4124198555
+                }
+            },
+            {
+                "player_6": {
+                    "player_id": 14,
+                    "team_id": 3,
+                    "name": "EE",
+                    "sex": "M",
+                    "contact": 4124198666
+                }
+            }
+        ],
+        "rounds": [
+            {
+                "round_1": {
+                    "opposite_team_id": 4,
+                    "round_id": 1,
+                    "VP": 10.31,
+                    "boards": [
+                        {
+                            "board_1": {
+                                "board_id": 1,
+                                "result": "3NT+1"
+                            }
+                        },
+                        {
+                            "board_2": {
+                                "board_id": 2,
+                                "result": "1S+3"
+                            }
+                        },
+                        {
+                            "board_3": {
+                                "board_id": 3,
+                                "result": "2S+1"
+                            }
+                        },
+                        {
+                            "board_4": {
+                                "board_id": 4,
+                                "result": "6D-1"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "round_2": {
+                    "opposite_team_id": 1,
+                    "round_id": 2,
+                    "VP": 6.42,
+                    "boards": [
+                        {
+                            "board_1": {
+                                "board_id": 5,
+                                "result": "4H+1"
+                            }
+                        },
+                        {
+                            "board_2": {
+                                "board_id": 6,
+                                "result": "3C+4"
+                            }
+                        },
+                        {
+                            "board_3": {
+                                "board_id": 7,
+                                "result": "3H+3"
+                            }
+                        },
+                        {
+                            "board_4": {
+                                "board_id": 8,
+                                "result": "3H+3"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "round_3": {
+                    "opposite_team_id": 2,
+                    "round_id": 3,
+                    "VP": 11.05,
+                    "boards": [
+                        {
+                            "board_1": {
+                                "board_id": 9,
+                                "result": "4SX="
+                            }
+                        },
+                        {
+                            "board_2": {
+                                "board_id": 10,
+                                "result": "4H-1"
+                            }
+                        },
+                        {
+                            "board_3": {
+                                "board_id": 11,
+                                "result": "2NT-1"
+                            }
+                        },
+                        {
+                            "board_4": {
+                                "board_id": 12,
+                                "result": "2NT+1"
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "team_id": 4,
+        "team_name": "NeverLose",
+        "score": 34.83,
+        "players": [
+            {
+                "player_1": {
+                    "player_id": 15,
+                    "team_id": 4,
+                    "name": "Neda",
+                    "sex": "F",
+                    "contact": 4124190000
+                }
+            },
+            {
+                "player_2": {
+                    "player_id": 16,
+                    "team_id": 4,
+                    "name": "Ned",
+                    "sex": "M",
+                    "contact": 4124191111
+                }
+            },
+            {
+                "player_3": {
+                    "player_id": 17,
+                    "team_id": 4,
+                    "name": "Nemar",
+                    "sex": "M",
+                    "contact": 4124192222
+                }
+            },
+            {
+                "player_4": {
+                    "player_id": 18,
+                    "team_id": 4,
+                    "name": "Fimann",
+                    "sex": "M",
+                    "contact": 4124193333
+                }
+            }
+        ],
+        "rounds": [
+            {
+                "round_1": {
+                    "opposite_team_id": 3,
+                    "round_id": 1,
+                    "VP": 15.4,
+                    "boards": [
+                        {
+                            "board_1": {
+                                "board_id": 1,
+                                "result": "3NT="
+                            }
+                        },
+                        {
+                            "board_2": {
+                                "board_id": 2,
+                                "result": "1S+2"
+                            }
+                        },
+                        {
+                            "board_3": {
+                                "board_id": 3,
+                                "result": "3S="
+                            }
+                        },
+                        {
+                            "board_4": {
+                                "board_id": 4,
+                                "result": "6D="
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "round_2": {
+                    "opposite_team_id": 2,
+                    "round_id": 2,
+                    "VP": 13.1,
+                    "boards": [
+                        {
+                            "board_1": {
+                                "board_id": 5,
+                                "result": "6D+1"
+                            }
+                        },
+                        {
+                            "board_2": {
+                                "board_id": 6,
+                                "result": "3D+2"
+                            }
+                        },
+                        {
+                            "board_3": {
+                                "board_id": 7,
+                                "result": "3H+3"
+                            }
+                        },
+                        {
+                            "board_4": {
+                                "board_id": 8,
+                                "result": "3H+3"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "round_3": {
+                    "opposite_team_id": 1,
+                    "round_id": 3,
+                    "VP": 6.33,
+                    "boards": [
+                        {
+                            "board_1": {
+                                "board_id": 9,
+                                "result": "4H-1"
+                            }
+                        },
+                        {
+                            "board_2": {
+                                "board_id": 10,
+                                "result": "4HX-2"
+                            }
+                        },
+                        {
+                            "board_3": {
+                                "board_id": 11,
+                                "result": "2NT-1"
+                            }
+                        },
+                        {
+                            "board_4": {
+                                "board_id": 12,
+                                "result": "2NTX-3"
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]
